@@ -4,26 +4,27 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923165123719"
-global.ownername = "Umar Rehman"
+global.ownernomer = "923191263577"
+global.ownername = "ali gul"
 global.ytname = "DarkDevil404"
 global.socialm = "GitHub: Um4r719"
 global.location = "Chaklala Scheme 3 Rawalpindi,Pakistan"
 
-global.ownernumber = '923165123719'  //creator number
-global.ownername = '𝙐 𝙈 𝘼 𝙍 💛' //owner name
+global.ownernumber = '923191263577'  //creator number
+global.ownername = 'ali gul 💛' //owner name
 global.botname = '𝙐𝘿 𝘽𝙐𝙂' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Umar Rehman'
+global.author = 'ali gul'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Dark Devil"
 
 //theme link
-global.link = 'https://wa.me/+923165123719'
+global.link = 'https://wa.me/+923191263577
+    '
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
